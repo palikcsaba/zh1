@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApplication21.Program">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.CsacskaNyúl">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="ConsoleApplication21.TréMedve" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="3.625" />
+        <Point X="4.58" Y="3.625" />
+        <Point X="4.58" Y="3.637" />
+        <Point X="4.92" Y="3.637" />
+        <Point X="4.92" Y="3.241" />
+        <Point X="5.25" Y="3.241" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CsacskaNyúl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.ZsigaCsiga">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="ConsoleApplication21.TréMedve" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="3.625" />
+        <Point X="4.58" Y="3.625" />
+        <Point X="4.58" Y="3.632" />
+        <Point X="4.92" Y="3.632" />
+        <Point X="4.92" Y="4.403" />
+        <Point X="5.25" Y="4.403" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZsigaCsiga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.TréMedve">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TréMedve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.BarnaMedve">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BarnaMedve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.Hóvirág">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hóvirág.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.ParaRóka">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParaRóka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.MásnaposSzöcske">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MásnaposSzöcske.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication21.Bolha">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bolha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
